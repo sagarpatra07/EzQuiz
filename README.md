@@ -1,0 +1,2 @@
+# EzQuiz
+A quiz website

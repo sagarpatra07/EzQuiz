@@ -1,0 +1,46 @@
+html{
+height: 100%;
+}
+
+body{
+  background-color: rgb(246,244,254);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.logo{
+    color:white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 28px;
+}
+
+.main-menu{
+  gap: 28px;
+}
+.footer-menu{
+  gap: 28px;
+}
+
+
+.btn-primary {
+  background-color: rgb(106, 74, 238);
+  border-color: rgb(106, 74, 238);
+}
+.btn-primary:hover {
+  background-color: rgb(138, 110, 254);
+  border-color: rgb(138, 110, 254);
+}
+.btn-primary:active {
+  background-color: rgb(106, 74, 238);
+  border-color: rgb(106, 74, 238);
+}
+
+
+
+
+
+
